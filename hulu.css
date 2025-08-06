@@ -1148,6 +1148,7 @@ li {
     }
     .plus_subscription{
         flex-wrap: wrap;
+        justify-content: center;
     }
     .section1 {
         width: 100%;
@@ -1177,13 +1178,12 @@ li {
         font-size: 9px;
     }
     .btn{
-        margin-left: 30px;
         margin-top: 5px
     }
     .plus_terms {
     text-align: center;
     width: 100%;
-    margin-left: 30px;
+   
     }
     .plus_terms a {
     font-size: 10px;

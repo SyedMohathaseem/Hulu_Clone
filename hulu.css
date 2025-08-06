@@ -92,11 +92,11 @@ svg {
 }
 
 .subscription_logo #logo {
-    height: 58px;
-    width: 65%;
+    height: 75px;
+    width: 80%;
     margin: auto;
     background-image: url(https://cnbl-cdn.bamgrid.com/assets/e0b0db589c0a868e09b45daa56dea942dd63305fff8ca65c8587f33afcc39b0c/original);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     margin-top: 10px;
     /* position: relative; */

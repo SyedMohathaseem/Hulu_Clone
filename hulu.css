@@ -971,7 +971,7 @@ li {
 }
 
 .facbook #icon {
-    height: 20px;
+    height: 21px;
     width: 22%;
     background-image: url(https://www.hulu.com/static/hitch/static/icons/facebook.svg);
     background-size: cover;
@@ -988,7 +988,7 @@ li {
 }
 
 .twitter #icon {
-    height: 17px;
+    height: 20px;
     width: 32%;
     background-image: url(https://www.hulu.com/static/hitch/static/icons/x_logo.svg);
     background-size: cover;
@@ -1005,7 +1005,7 @@ li {
 }
 
 .youtube #icon {
-    height: 18px;
+    height: 21px;
     width: 50%;
     background-image: url(https://www.hulu.com/static/hitch/static/icons/youtube.svg);
     background-size: cover;
@@ -1022,7 +1022,7 @@ li {
 }
 
 .insta #icon {
-    height: 20px;
+    height: 24px;
     width: 40%;
     background-image: url(https://www.hulu.com/static/hitch/static/icons/instagram.svg);
     background-size: cover;
@@ -1338,7 +1338,7 @@ li {
     padding: 20px
     }
     .logo{
-        height: 49px;
+        height: 58px;
         width: 18%;
     }
     .live_details {
@@ -1376,7 +1376,7 @@ li {
         gap: 0;
     }
     .disney_img1 {
-    height: 27px;
+    height: 32px;
     width: 69%;
     /* margin-right: 30px; */
     margin-left: 0;
@@ -1410,7 +1410,7 @@ li {
         width: 50%;
     }
     .disney_img2 {
-    height: 27px;
+    height: 32px;
     width: 69%;
     margin-left: 37px;
     margin-right: 4px;
@@ -1570,8 +1570,8 @@ li {
     flex-wrap: wrap;
     align-items: center;
     gap: 13px;
-    margin-left: 15px;
-    margin-right: 15px;
+    /* margin-left: 15px; */
+    /* margin-right: 15px; */
     }
     .map{
         margin-right: 197px;

@@ -971,8 +971,8 @@ li {
 }
 
 .facbook #icon {
-    height: 25px;
-    width: 22%;
+    height: 28px;
+    width: 35%;
     background-image: url(https://www.hulu.com/static/hitch/static/icons/facebook.svg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -989,7 +989,7 @@ li {
 
 .twitter #icon {
     height: 23px;
-    width: 32%;
+    width: 42%;
     background-image: url(https://www.hulu.com/static/hitch/static/icons/x_logo.svg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -1006,7 +1006,7 @@ li {
 
 .youtube #icon {
     height: 24px;
-    width: 50%;
+    width: 66%;
     background-image: url(https://www.hulu.com/static/hitch/static/icons/youtube.svg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -1023,7 +1023,7 @@ li {
 
 .insta #icon {
     height: 26px;
-    width: 40%;
+    width: 50%;
     background-image: url(https://www.hulu.com/static/hitch/static/icons/instagram.svg);
     background-size: cover;
     background-repeat: no-repeat;
